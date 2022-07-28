@@ -15,9 +15,9 @@ As a technical lead I want the project to be properly setup so we can work in th
 As a technical lead I want a basic CRUD behavior for the user entity
 
 # Acceptance Criteria:
--- Use typeorm and the repository from typeorm
--- Use Observables instead of Promises (use rxjs)
--- Feature Module "user" which has properities:
+✅️ -- Use typeorm and the repository from typeorm
+✅️ -- Use Observables instead of Promises (use rxjs)
+✅️ -- Feature Module "user" which has properities:
 	** name
 	** username (unique)
 	** id (unique, primary key)
